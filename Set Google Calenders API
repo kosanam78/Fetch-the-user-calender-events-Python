@@ -1,0 +1,12 @@
+set up a Google Cloud Project and enable the Google Calendar API.
+install the 'google-api-python-client' library.
+authenticate using OAuth2 to access the user's calendar.
+fetch events for a specific day.
+
+
+install the required libraries:-
+
+syntax- 'pip install google-auth google-auth-oauthlib google-api-python-client'
+
+
+
